@@ -1,0 +1,2 @@
+Dog { name: 'Rex', age: 11 }
+Rex barks.

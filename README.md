@@ -4,7 +4,7 @@
 
 * Enter either the [es5](es5) or [es6](es6) folder depending on what example you would like to run
 * `node test.js`
-* View output
+* View output. If you're feeling lazy you can check out the output.txt files in each folder.
 
 ## Contributions
 
